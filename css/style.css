@@ -52,7 +52,7 @@
     margin: 0px;
   }
   label{
-    color: #405c60;
+    color: black;
     position: relative;
   }
   
@@ -93,7 +93,7 @@
     cursor: pointer;  
     background: red;
     padding: 8px 5px;
-    color: #fff;
+    color: #f7f7f7;
     font-size: 20px;  
     border: 1px solid #fff; 
     margin-bottom: 10px;  
@@ -112,7 +112,7 @@
   .link{
     position: absolute;
     background: #e1eaeb;
-    color: #7f7c7c;
+    color: red;
     left: 0px;
     height: 20px;
     width: 440px;
@@ -128,7 +128,7 @@
     font-weight: bold;
     background: #f7f8f1;
     padding: 6px;
-    color: rgb(29, 162, 193);
+    color: red;
     margin-left: 10px;
     border: 1px solid #cbd518;
   
@@ -139,7 +139,7 @@
     transition: all 0.4s  linear;
   }
   .link a:hover {
-    color: #39bfd7;
+    color: red;
     background: #f7f7f7;
     border: 1px solid #4ab3c6;
   }
