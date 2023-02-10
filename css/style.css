@@ -28,7 +28,7 @@
   /* formatando o cabeçalho dos formulários */
   h1{
     font-size: 48px;
-    color: #066a75;
+    color: red;
     padding: 10px 0;
     font-family: Arial,sans-serif;
     font-weight: bold;
@@ -52,7 +52,7 @@
     margin: 0px;
   }
   label{
-    color: #405c60;
+    color: red;
     position: relative;
   }
   
